@@ -24,6 +24,9 @@ O programa não executa, pois sem o class, o arquivo bytecode não é gerado, n�
 
 5. Mude o nome do método "main" para "start", compile e execute. O que aconteceu?
 
+
+O programa não executa em si, ao executar o programa dita que o comando ou 'method' main nao foi encontrado na classe 'start' 
+
 6. Crie um programa Java para imprimir duas linhas de texto usando duas linhas de códigos "System.out", onde aparecerá o seu nome na primeira linha e na segunda linha aparecerá o time para o qual você torce.
 
 7. Experimente escrever todo o programa anterior em maiúsculo, compile e execute. O que aconteceu?
