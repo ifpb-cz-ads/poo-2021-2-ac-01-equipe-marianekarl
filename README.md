@@ -35,3 +35,6 @@ O programa não executa em si, ao executar o programa dita que o comando ou 'met
 O programa nao inicia ao colocar todo o codigo e linhas em maiusculo aparece que a classe inicial nao pode ser encontrada.
 
 8. Experimente salvar o arquivo com um nome diferente do nome da classe, compile e execute. O que aconteceu? 
+
+
+Modificando o nome da classe ao que entendi ao executar o codigo saiu perfeitamente normal.
